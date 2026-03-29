@@ -2,7 +2,7 @@
 
 **Live Application:**
 
-https://your-streamlit-app-link-here
+[https://your-streamlit-app-link-here](https://predicting-diabetes-risk-dfzzhizcmhdwb2uyrk3d7r.streamlit.app/)
 
 Use the link above to interact with the application and predict whether an individual has Prediabetes/Diabetes or No Diabetes in real time.
 
