@@ -49,7 +49,7 @@ Age = age_options[Age]
 education_options = {
     "Never attended school / only kindergarten": 1,
     "Grades 1-8": 2,
-    "Grades 911": 3,
+    "Grades 9-11": 3,
     "Grade 12 / GED": 4,
     "Some college / technical school": 5,
     "College graduate or higher": 6
